@@ -1,4 +1,22 @@
 # Excursion
-### https://suptarr.github.io/Excursion/
-![excursion](https://user-images.githubusercontent.com/74394547/174483565-2f6a31b4-804f-430d-9e2d-9be009dfc96e.png)
-![excursion_redline](https://user-images.githubusercontent.com/74394547/174483571-05faea7d-7e95-49c6-9640-586aba383b3d.png)
+
+## About The Project
+
+This project was completed as part of `Build a Website with HTML, CSS, and Github Pages Skill Path`. I am tasked to create a web page which advertises a product called "Excursion". You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. A preview of the page is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)
+
+## Technologies
+
+This project was created with:
+
+- HTML5
+- CSS3
+- Git, GitHub and GitHub Pages
+
+## Installation
+### Run Locally
+
+Clone the project
+
+```sh
+git clone https://github.com/SupTarr/Excursion.git
+```
