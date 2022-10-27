@@ -1,45 +1,69 @@
 * {
-    font-family: verdana;
-    font-weight: normal;
-    color: white;
-    text-align: center;
-    background-color: black;
+  font-family: verdana;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  background-color: black;
 }
 
 header h1 {
-    font-size: 50px;
+  font-size: 50px;
 }
 
 header a {
-    color: aquamarine;
-    font-size: 16px;
+  color: aquamarine;
+  font-size: 16px;
 }
 
 .text h2 {
-    font-weight: 300px;
-    font-size: 42px;
+  font-weight: 300px;
+  font-size: 42px;
 }
 
 .text p {
-    font-size: 21px;
-    color: gray;
+  font-size: 21px;
+  color: gray;
 }
 
 #phone {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .banner h2 {
-    font-weight: 300px;
-    font-size: 42px;
+  font-weight: 300px;
+  font-size: 42px;
 }
 
 .banner a {
-    color: aquamarine;
-    font-size: 16px;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.video video {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+}
+
+.camping {
+  width: calc(100% - 20px);
+  max-width: 1000px;
+  margin: 0 10px;
+  height: auto;
+}
+
+footer {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 footer p {
-    text-align: right;
-    color: gray;
+  text-align: right;
+  color: gray;
 }

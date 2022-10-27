@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project was completed as part of `Build a Website with HTML, CSS, and Github Pages Skill Path`. I am tasked to create a web page which advertises a product called "Excursion". You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. A preview of the page is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)
+This project was completed as part of `Build a Website with HTML, CSS, and Github Pages Skill Path`. I am tasked to create a web page which advertises a product called "Excursion". You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. A wireframe of the page is available [here](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png)
 
 ## Technologies
 
